@@ -1,0 +1,1 @@
+C:\Users\alaid\Documents\ARProject\augmented-reality-project\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\6p1n4f22\obj\arm64-v8a
